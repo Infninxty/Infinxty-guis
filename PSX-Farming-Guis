@@ -13,9 +13,9 @@ local SectionUtil = TabUtil:CreateSection("Pet Simulator X Utility")
 local TabOther = Window:CreateTab("Side GUI's")
 local SectionOther = TabOther:CreateSection("Pet Simulator X Side GUI's")
 
-local Label = Tab:CreateLabel("Thanks for using Furk Ultra!")
-local Label = TabUtil:CreateLabel("Thanks for using Furk Ultra!")
-local Label = TabOther:CreateLabel("Thanks for using Furk Ultra!")
+local Label = Tab:CreateLabel("Thanks for using Furk Infinxty Guis")
+local Label = TabUtil:CreateLabel("Thanks for using Infinxty Guis")
+local Label = TabOther:CreateLabel("Thanks for using Infinxty Guis")
 
 
 local Button = Tab:CreateButton({
